@@ -1,6 +1,10 @@
 
 ### Olá! Eu sou o Kauê Leão 😉💻📱
+- Formado em Análise e Desenvolvimento de Sistemas 👨🏼‍🎓
+- Trabalho como Análista de Sistemas 👨‍💻
+- Atualmente Estudando Desenvolvimento Swift 📚
 
+##
 
 ### Minhas Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kaue.leao.90)
@@ -8,15 +12,19 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaue_leao/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kaue44?si=337d47ac44cc4f4d)
 
-### Status GitHub:
-![Kauê Leão GitHub stats](https://github-readme-stats.vercel.app/api?username=kaueleao&show_icons=true&theme=merko)
+##
 
-### O que tenho usado mais em meus projetos:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaueleao&layout=compact)](https://github.com/kaueleao/github-readme-stats)
+### Stats GitHub & O que tenho usado em meus projetos:
+<div>
+<img height="180em" src= "https://github-readme-stats.vercel.app/api?username=kaueleao&show_icons=true&theme=merko"/>
+<img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kaueleao&layout=compact&theme=merko"/>
+</div>
+
+##
 
 ### Tecnologias que fazem parte do meu dia a dia:
 <div>
-    <h3>Desenvolvimento:</h3>
+    <h3>- Desenvolvimento:</h3>
         <div style="display: inline_blonk">
             <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
             <img align="center" alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
@@ -32,7 +40,7 @@
 <br>
 
 <div>
-    <h3>Banco de Dados:</h3>
+    <h3>- Banco de Dados:</h3>
         <div style="display: inline_blonk">
             <img align="center" alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
             <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -43,7 +51,7 @@
 <br>
 
 <div>
-    <h3>Sistemas Operacionais:</h3>
+    <h3>- Sistemas Operacionais:</h3>
         <div style="display: inline_blonk">
             <img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
             <img align="center" alt="IOS OS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=whitee">
