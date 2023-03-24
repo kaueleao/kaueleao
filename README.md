@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Kauê Leão 😉💻📱
 - Formado em Análise e Desenvolvimento de Sistemas 👨🏼‍🎓
 - Trabalho como Análista de Sistemas 👨‍💻
-- Atualmente Estudando Desenvolvimento Swift 📚
+- Atualmente Estudando Desenvolvimento Web 📚
 
 ##
 
@@ -26,7 +26,6 @@
 <div>
     <h3>- Desenvolvimento:</h3>
         <div style="display: inline_blonk">
-            <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
             <img align="center" alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
             <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
             <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -54,7 +53,6 @@
         <div style="display: inline_blonk">
             <img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
             <img align="center" alt="IOS OS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=whitee">
-            <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
             <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
             <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
         </div>
