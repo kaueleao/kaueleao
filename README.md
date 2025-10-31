@@ -1,8 +1,8 @@
 
 ### Olá! Eu sou o Kauê Leão 😉💻📱
 - Formado em Análise e Desenvolvimento de Sistemas 👨🏼‍🎓
-- Trabalho como Análista de Sistemas 👨‍💻
-- Atualmente Estudando Desenvolvimento Web 📚
+- Trabalho como Análista de Testes 👨‍💻
+- Atualmente Estudando Desenvolvimento Python e Automações 📚
 
 ##
 
